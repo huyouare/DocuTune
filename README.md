@@ -4,8 +4,8 @@
 
 ## Why use this?
 
-You: have a corpus of documents to finetune on
-OpenAI: I only take prompt-completion pairs
+* You: I have a corpus of documents to finetune on.
+* OpenAI: Sorry. I only take prompt-completion pairs.
 
 ## Features
 [x] Chunking
