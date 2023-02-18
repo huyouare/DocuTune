@@ -8,10 +8,10 @@
 * OpenAI: Sorry. We only do supervised finetuning -- I only take prompt-completion pairs.
 
 ## Features
-[x] Chunking
-[x] Synthetic Questions
-[x] Synthetic Answers
-
+[x] Chunking  
+[x] Synthetic Questions  
+[x] Synthetic Answers  
+ 
 ## Example
 
 Go from this:
