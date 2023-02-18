@@ -1,5 +1,18 @@
 # DocuTune
-Utils for finetuning OpenAPI on documents
+### Utils for finetuning OpenAPI on documents
+
+
+## Why use this?
+
+You: have a corpus of documents to finetune on
+OpenAI: I only take prompt-completion pairs
+
+## Features
+[x] Chunking
+[x] Synthetic Questions
+[x] Synthetic Answers
+
+## Example
 
 Go from this:
 
